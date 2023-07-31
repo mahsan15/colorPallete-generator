@@ -20,4 +20,4 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/color-generator.git
+   git clone https://github.com/mahsan15/colorPallete-generator.git
