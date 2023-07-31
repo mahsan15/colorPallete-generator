@@ -24,11 +24,13 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
 
 2. Install dependancies
 
-
    ```bash
    npm install
 
-   
+3. Run
+    ```bash
+   npm start
+
 
    
 
