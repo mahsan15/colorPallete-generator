@@ -7,7 +7,7 @@ A web application built with React that allows users to explore beautiful color 
 
 ## Live Demo
 
-Check out the live demo here: [Color Generator](https://64c76201457ce77db1868baf--gorgeous-chaja-8476e7.netlify.app/)
+Check out the live demo here: [Color Generator](https://64c77098f2526207fb1c19ee--boisterous-sunshine-cc1b8d.netlify.app/)
 
 ## Getting Started
 
