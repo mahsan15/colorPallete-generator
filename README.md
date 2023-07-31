@@ -31,7 +31,6 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
     ```bash
    npm start
 
-
    
 
    
