@@ -21,3 +21,15 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
 
    ```bash
    git clone https://github.com/mahsan15/colorPallete-generator.git
+
+2. Install dependancies
+
+
+   ```bash
+   npm install
+
+   
+
+   
+
+   
